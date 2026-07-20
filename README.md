@@ -301,33 +301,6 @@ The saved model can later be loaded without retraining.
 
 ---
 
-# 🚀 How to Run
-
-## 1. Install Required Libraries
-
-```bash
-pip install tensorflow matplotlib
-```
-
-## 2. Run Python Script
-
-```bash
-python cnn_mnist.py
-```
-
-## 3. View Results
-
-Generated files:
-
-```text
-.
-│
-├── mnist_cnn_model.keras
-├── training_history.png
-```
-
----
-
 # 📚 Dataset Citation
 
 LeCun, Y., Cortes, C., & Burges, C. J. C. **MNIST Handwritten Digit Database**, available through TensorFlow/Keras Datasets.
